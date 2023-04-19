@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\bin\Debug\Vyjimky.exe.config
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\bin\Debug\Vyjimky.exe
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\bin\Debug\Vyjimky.pdb
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.Form1.resources
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.Properties.Resources.resources
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.exe
+G:\Dokumenty\Csharp\Vyjimky\Vyjimky\obj\Debug\Vyjimky.pdb
